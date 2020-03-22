@@ -1,4 +1,4 @@
-FROM swift:5.1
+FROM norionomura/swiftlint:0.39.1_swift-5.1.5
 
 MAINTAINER Orta Therox
 
